@@ -1,6 +1,6 @@
 # Swiggy Sales Performance Dashboard
 
-An interactive Excel-based dashboard built to analyze Swiggy's food delivery sales data across cities, food categories, time periods, and customer segments. The dashboard is designed around three connected views — Dashboard, Analysis, and Data — with a dynamic filter panel that drives all visuals simultaneously.
+An interactive Excel-based dashboard built to analyze Swiggy's food delivery sales data across cities, food categories, time periods, and customer segments. The dashboard is designed around three connected views - Dashboard, Analysis, and Data with a dynamic filter panel that drives all visuals simultaneously.
 
 
 <img width="1280" height="720" alt="Dashboard" src="https://github.com/user-attachments/assets/4517b1e4-f212-4793-bc54-ee1f5ad09e7b" />
