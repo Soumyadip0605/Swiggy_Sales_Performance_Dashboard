@@ -34,7 +34,7 @@ Five summary cards sit across the top of the dashboard. They update automaticall
 | **Users** | Total unique users in the filtered segment (in Millions) |
 | **Total Orders** | Count of orders matching active filters (in Thousands) |
 
-When no filters are applied, the full dataset reads: ₹47.22M in Total Sales, 4.46 Average Rating, ₹270.86 Avg Order Value, 5.05M Users, and 174.34K Total Orders.
+When no filters are applied, the full dataset reads: ₹53.01M in Total Sales, 4.34 Average Rating, ₹268.51 Avg Order Value, 5.59M Users, and 197.43K Total Orders.
 
 
 ## Charts & Visuals
