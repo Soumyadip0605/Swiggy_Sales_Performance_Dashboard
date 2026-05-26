@@ -44,7 +44,7 @@ When no filters are applied, the full dataset reads: ₹47.22M in Total Sales, 4
 <p align="center"><img width="526" height="231" alt="Monthly_sales" src="https://github.com/user-attachments/assets/e39eac16-07a5-4f8e-a944-03f6c8ff3652" />
 
 
-**Daily Sales Trends** — A bar chart broken down by day of the week (Sun–Sat). Helps identify which days consistently drive higher order volumes and revenue.
+**Daily Sales Trends** — A bar chart broken down by day of the week (Mon - Sun). Helps identify which days consistently drive higher order volumes and revenue.
 
 <p align="center"><img width="520" height="232" alt="Daily_sales" src="https://github.com/user-attachments/assets/e1c3688b-cf1b-48e8-9dde-41a5d660d9f4" />
 
