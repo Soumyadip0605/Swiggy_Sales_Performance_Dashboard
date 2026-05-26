@@ -136,7 +136,7 @@ Swiggy Dashboard.xlsb
 
 ## Data Coverage
 
-- Time period: January – September (Q1 to Q3)
+- Time period: January – December (Q1 to Q3)
 - Cities covered: Bengaluru, Lucknow, Mumbai, Hyderabad, Ahmedabad, Chandigarh, Kolkata, Chennai, Jaipur, New Delhi, and others
 - Food categories: Covers the full Swiggy menu taxonomy including combo deals, new launches, price-tier items, and cuisine types
 - Order price range: ₹0 to ₹800+
