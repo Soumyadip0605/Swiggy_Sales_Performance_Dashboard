@@ -3,7 +3,7 @@
 An interactive Excel-based dashboard built to analyze Swiggy's food delivery sales data across cities, food categories, time periods, and customer segments. The dashboard is designed around three connected views - Dashboard, Analysis, and Data with a dynamic filter panel that drives all visuals simultaneously.
 
 
-<img width="1280" height="720" alt="Dashboard" src="https://github.com/user-attachments/assets/4517b1e4-f212-4793-bc54-ee1f5ad09e7b" />
+<img width="1280" height="720" alt="Dashboard" src="https://github.com/user-attachments/assets/16e623b1-4b4f-4828-8baf-7a3d676713ad" />
 
 
 
@@ -23,7 +23,7 @@ The workbook has three navigable pages:
 
 Five summary cards sit across the top of the dashboard. They update automatically based on whatever filters are active:
 
-<p align="center"><img width="1206" height="120" alt="kpi" src="https://github.com/user-attachments/assets/d94d1ae9-2154-41ab-8628-f148c7435c65" />
+<p align="center"><img width="1211" height="125" alt="kpi" src="https://github.com/user-attachments/assets/71918653-82e8-4aa3-b14d-6f33ad004d78" />
 
 
 | KPI | Description |
@@ -41,13 +41,12 @@ When no filters are applied, the full dataset reads: ₹53.01M in Total Sales, 4
 
 **Monthly Sales Trend** — A line chart showing sales movement from January through August. Useful for spotting seasonal peaks and dips across the year. 
 
-<p align="center"><img width="526" height="231" alt="Monthly_sales" src="https://github.com/user-attachments/assets/e39eac16-07a5-4f8e-a944-03f6c8ff3652" />
+<p align="center"><img width="532" height="218" alt="Monthly_sales" src="https://github.com/user-attachments/assets/3f55c59b-8db8-46b5-a3af-c30f0728b62e" />
 
 
 **Daily Sales Trends** — A bar chart broken down by day of the week (Mon - Sun). Helps identify which days consistently drive higher order volumes and revenue.
 
-<p align="center"><img width="520" height="232" alt="Daily_sales" src="https://github.com/user-attachments/assets/e1c3688b-cf1b-48e8-9dde-41a5d660d9f4" />
-
+<p align="center"><img width="536" height="233" alt="Daily_sales" src="https://github.com/user-attachments/assets/eebf6bda-88f7-4734-b6ae-818f4b9c2aa5" />
 
 **Sales by Food Type** — A donut chart splitting orders between Vegetarian and Non-Vegetarian. In the full dataset, Non-Veg accounts for roughly 66% of sales, Veg at 34%.
 
@@ -61,18 +60,16 @@ When no filters are applied, the full dataset reads: ₹53.01M in Total Sales, 4
 
 **Top 5 Cities by Sales** — A horizontal bar chart ranking the highest-grossing cities. Bengaluru leads consistently, followed by Lucknow, Mumbai, Hyderabad, and Ahmedabad (with city rankings shifting slightly based on active filters).
 
-<p align="center"><img width="415" height="222" alt="City_sales" src="https://github.com/user-attachments/assets/909aeb0d-2fc1-4f27-afad-3e1643742472" />
+<p align="center"><img width="430" height="226" alt="City_sales" src="https://github.com/user-attachments/assets/2b35c78a-01c7-460b-bba1-367c09757b0c" />
 
 
 **Sales by State** — A filled map of India showing state-level sales distribution using a colour gradient. Bing Maps integration renders the geographic spread visually.
 
-<p align="center"><img width="385" height="463" alt="Screenshot 2026-05-26 230131" src="https://github.com/user-attachments/assets/af3e5611-bf69-4fd9-a641-8b88d9d7ea2f" />
-
-
+<p align="center"><img width="386" height="467" alt="State_sales" src="https://github.com/user-attachments/assets/f52c41e0-800f-43df-953f-31fd2d8b687f" />
+  
 **Weekly Sales Trend** — A daily bar chart across approximately 36 weeks, showing granular week-by-week fluctuation in revenue.
 
-<p align="center"><img width="780" height="231" alt="weekly_sales" src="https://github.com/user-attachments/assets/a5c44402-bea5-4d0e-8b4b-c9e078ee2a54" />
-
+<p align="center"><img width="776" height="223" alt="weekly_sales" src="https://github.com/user-attachments/assets/4318036c-7d3b-40c0-bfae-928e5f4c849b" />
 
 
 ## Filter Panel
